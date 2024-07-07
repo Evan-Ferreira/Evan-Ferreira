@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<div style="width:100%"><div style="height:0;padding-bottom:56.00000000000001%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/6vyppX6llwxy3mYSnU/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div><h3 align="center">A passionate frontend developer from India</h3>
+![200w](https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/cb5c1217-3045-4fb8-a692-1bada3bdf969)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evan-ferreira&label=Profile%20views&color=0e75b6&style=flat" alt="evan-ferreira" /> </p>
 
