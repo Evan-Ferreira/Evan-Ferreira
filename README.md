@@ -1,3 +1,4 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
 
-![max_holloway](https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/977c447f-a8f7-4185-b2cb-0d1ca4f03ae6)
+![max](https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/73f7f9af-7676-4a03-91eb-c3aa5cca4f8e)
+
