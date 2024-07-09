@@ -2,7 +2,7 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/evan-ferreira/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/hemant(https://devpost.com/evanjfer)"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://devpost.com/evanjfer"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/mku9onqcrbdobr9a7ax34u4mn?si=0534748140954312"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://calendly.com/evanjfer/coffee-w-evan"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
