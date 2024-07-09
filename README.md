@@ -20,8 +20,13 @@
 <div align="center">
   <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="450" />
 </div>
+<p>
 <h3 align="center">💡 I'm a 19-year-old Canadian currently learning backend</h3>
-
+   - 🤖 I'm currently learning and becoming proficient in TensorFlow
+   - 💻 My preferred tech stack is Node.js, Express.js, MongoDB, and React.js
+   - ⌨️ TypeScript is my current language of choice
+   - 🧠 I'm building my knowledge and understanding of data structures and algorithms
+</p>
 
 <div align="center">
   <img src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="300" />
