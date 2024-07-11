@@ -38,6 +38,12 @@
 
 <h3 align="right">💬 Languages & Tools:</h3>
 <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
+
+<br>
+</br>
+<br>
+</br>
+
 <h3 align="right">😎 Cool GitHub Stats:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 
