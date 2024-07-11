@@ -7,7 +7,7 @@
  </p>
  
 <div align="center">
-   <img align="center" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/aa0858cf-984e-4b77-b708-c6b32be5f381" alt="Conor" width="400" />
+   <img align="center" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/bcd5f940-4e22-43f6-b4e7-e055d793d8cf" alt="Conor" width="50%" />
 </div>
 
 <h3 align="center"> 
@@ -17,6 +17,7 @@
 </h5>
 
 <br>
+
 
 <div align="center">
   <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="450" />
@@ -39,12 +40,26 @@
   <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
    <br>
    </br>
-  <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="50%" />
+  <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="48%" />
 </p>
+<br>
+</br>
 <p align="right">
    <h3 align="right">😎 Cool GitHub Stats:</h3>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 </p>
+<h2 align="center">🚀 Fun Facts About Me:</h2>
+<i>
+   
+   - 🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division 
+   
+   - 🤖 I run an AI start-up called "Local Reach"
+     
+   - 🔭 I oversee an AI product incubator at Queen's University, Canada
+     
+   - 👑 I was ranked top 100 in Canada at Clash Royale in high school
+     
+</i>
 
 
 
