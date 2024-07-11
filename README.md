@@ -30,6 +30,10 @@
 </p>
 
 <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="48%" />
+
+<br>
+</br>
+
 <p align="right">
    <h3 align="right">💬 Languages and Tools:</h3>
   <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
