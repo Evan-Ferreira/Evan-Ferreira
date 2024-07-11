@@ -21,12 +21,12 @@
    <h3 align="left">🇨🇦 I'm a 3rd Year Queen's CS + Commerce Student</h3>
 </p>
 <p width=48%">
-   - 🤖 I'm currently learning and becoming proficient in TensorFlow
+🤖 I'm currently learning and becoming proficient in TensorFlow
 </p>
 <p width=48%">
-   - 💻 My tech stack is Node.js, Express.js, MongoDB, and React.js
+💻 My tech stack is Node.js, Express.js, MongoDB, and React.js
 <p width=48%">     
-   - ⌨️ TypeScript is my current language of choice
+⌨️ TypeScript is my current language of choice
 </p>
 
 <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="48%" />
@@ -47,15 +47,16 @@
 
 <h3 align="left">🚀 Fun Facts About Me:</h3>
 <i>
-   
-- 🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division
-   
-- 🤖 I run an AI start-up called "Local Reach"
-  
-- 🔭 I oversee an AI product incubator at Queen's University, Canada
-  
-- 👑 I was ranked top 100 in Canada at Clash Royale in high school
-  
+<p align="left">
+🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division
+</p>  
+<p align="left">
+🤖 I run an AI start-up called "Local Reach"
+</p>  
+<p align="left"> 
+🔭 I oversee an AI product incubator at Queen's University, Canada
+</p>  
+<p align="left">
+👑 I was ranked top 100 in Canada at Clash Royale in high school
+</p>  
 </i>
-
-
