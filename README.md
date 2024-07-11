@@ -29,6 +29,11 @@
    - ⌨️ TypeScript is my current language of choice
 </p>
 
+<br>
+</br>
+<br>
+</br>
+
 <p align="center">
    <h3 align="right">💬 Languages and Tools:</h3>
   <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
