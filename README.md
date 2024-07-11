@@ -16,28 +16,18 @@
    <i>⚡️ There is no debate that CamelCase is superior ⚡️</i>
 </h5>
 
-<br>
-</br>
-
-<div align="center">
-  <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="48%" />
-</div>
-
-<p width=50%">
-   <h3 align="center">🇨🇦 I'm a 3rd Year Queen's CS + Commerce Student</h3>
-
-
-   - 🤖 I'm currently learning and becoming proficient in TensorFlow
-   
-   - 💻 My tech stack is Node.js, Express.js, MongoDB, and React.js
-     
-   - ⌨️ TypeScript is my current language of choice
-     
-   - 🧠 I'm building my knowledge of data structures and algorithms
+<img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="48%" />
+<p width=48%">
+   <h3 align="left">🇨🇦 I'm a 3rd Year Queen's CS + Commerce Student</h3>
 </p>
-
-<br>
-</br>
+<p width=48%">
+   - 🤖 I'm currently learning and becoming proficient in TensorFlow
+</p>
+<p width=48%">
+   - 💻 My tech stack is Node.js, Express.js, MongoDB, and React.js
+<p width=48%">     
+   - ⌨️ TypeScript is my current language of choice
+</p>
 
 <p align="center">
    <h3 align="right">💬 Languages and Tools:</h3>
