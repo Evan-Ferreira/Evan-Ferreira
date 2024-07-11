@@ -51,7 +51,7 @@
 <h3 align="left">🚀 Fun Facts About Me:</h3>
 <i>
 <p align="left">
-🤼 I was ranked 5th in Canada in Wrestling at the 72kg division
+🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division
 </p>  
 <p align="left">
 🤖 I run an AI start-up called "Local Reach"
