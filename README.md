@@ -47,7 +47,6 @@
 <h3 align="right">😎 Cool GitHub Stats:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 
-
 <h3 align="left">🚀 Fun Facts About Me:</h3>
 <i>
 <p align="left">
