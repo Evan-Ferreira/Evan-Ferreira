@@ -48,18 +48,33 @@
    <h3 align="right">😎 Cool GitHub Stats:</h3>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 </p>
-<h2 align="center">🚀 Fun Facts About Me:</h2>
-<i>
-   
-   - 🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division 
-   
-   - 🤖 I run an AI start-up called "Local Reach"
-     
-   - 🔭 I oversee an AI product incubator at Queen's University, Canada
-     
-   - 👑 I was ranked top 100 in Canada at Clash Royale in high school
-     
-</i>
 
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+<br>
+</br>
+
+<h3 align="center">🚀 Fun Facts About Me:</h3>
+
+<i>
+<p align="center">
+🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division 
+</p>
+<p align="center">
+🤖 I run an AI start-up called "Local Reach"
+</p>
+<p align="center">   
+🔭 I oversee an AI product incubator at Queen's University, Canada
+</p>
+<p align="center">   
+👑 I was ranked top 100 in Canada at Clash Royale in high school
+</p>    
+</i>
 
 
