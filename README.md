@@ -29,17 +29,10 @@
    - ⌨️ TypeScript is my current language of choice
 </p>
 
-<br>
-</br>
-<br>
-</br>
-
-<p align="center">
+<img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="48%" />
+<p align="right">
    <h3 align="right">💬 Languages and Tools:</h3>
   <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
-   <br>
-   </br>
-  <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="48%" />
 </p>
 <br>
 </br>
@@ -48,30 +41,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 </p>
 
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-<br>
-</br>
-
-<h3 align="center">🚀 Fun Facts About Me:</h3>
-
+<h3 align="left">🚀 Fun Facts About Me:</h3>
 <i>
-<p align="center">
-🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division 
-</p>
-<p align="center">
-🤖 I run an AI start-up called "Local Reach"
-</p>
-<p align="center">   
-🔭 I oversee an AI product incubator at Queen's University, Canada
-</p>
-<p align="center">   
-👑 I was ranked top 100 in Canada at Clash Royale in high school
-</p>    
+   
+- 🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division
+   
+- 🤖 I run an AI start-up called "Local Reach"
+  
+- 🔭 I oversee an AI product incubator at Queen's University, Canada
+  
+- 👑 I was ranked top 100 in Canada at Clash Royale in high school
+  
 </i>
 
 
