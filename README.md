@@ -35,7 +35,7 @@
 </br>
 
 <p align="right">
-   <h3 align="right">💬 Languages and Tools:</h3>
+   <h3 align="right">💬 Languages & Tools:</h3>
   <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
 </p>
 <br>
@@ -54,7 +54,7 @@
 🤖 I run an AI start-up called "Local Reach"
 </p>  
 <p align="left"> 
-🔭 I oversee an AI product incubator at Queen's University, Canada
+🔭 I oversee an AI-incubator at Queen's University, Canada
 </p>  
 <p align="left">
 👑 I was ranked top 100 in Canada at Clash Royale in high school
