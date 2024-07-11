@@ -17,15 +17,15 @@
 </h5>
 
 <br>
-
+</br>
 
 <div align="center">
-  <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="450" />
+  <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="48%" />
 </div>
 
-<p>
+<p width=50%">
    <h3 align="center">🇨🇦 I'm a 3rd Year Queen's CS + Commerce Student</h3>
-</p>
+
 
    - 🤖 I'm currently learning and becoming proficient in TensorFlow
    
@@ -34,7 +34,11 @@
    - ⌨️ TypeScript is my current language of choice
      
    - 🧠 I'm building my knowledge of data structures and algorithms
+</p>
+
+<br>
 </br>
+
 <p align="center">
    <h3 align="right">💬 Languages and Tools:</h3>
   <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="48%"/>
@@ -49,8 +53,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 </p>
 
-<br>
-</br>
 <br>
 </br>
 <br>
