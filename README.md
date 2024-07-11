@@ -47,6 +47,7 @@
 <h3 align="right">😎 Cool GitHub Stats:</h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="48%" />
 
+<p align="left">
 <h3 align="left">🚀 Fun Facts About Me:</h3>
 <i>
 <p align="left">
@@ -62,3 +63,4 @@
 👑 I was ranked top 100 in Canada at Clash Royale in high school
 </p>  
 </i>
+</p>
