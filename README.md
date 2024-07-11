@@ -36,16 +36,14 @@
 </br>
 <p align="center">
    <h3 align="right">💬 Languages and Tools:</h3>
-  <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" />
+  <img align="right" src="https://skillicons.dev/icons?i=py,java,javascript,typescript,nodejs,express,react,mongodb,mysql,tensorflow,opencv,pytorch,bash,figma,git,raspberrypi&perline=8" alt="" width="45%"/>
    <br>
    </br>
-  <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="500" />
+  <img align="left" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="50%" />
 </p>
-<br>
-</br>
 <p align="right">
    <h3 align="right">😎 Cool GitHub Stats:</h3>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" style="display: inline-block; width: 400;" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=evan-ferreira&show_icons=true&locale=en" alt="evan-ferreira" width="45%" />
 </p>
 
 
