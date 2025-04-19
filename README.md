@@ -15,7 +15,7 @@
 📺 Software @ Taiv & Pillexa 💊
 </h3>
  <h5 align="center">
-   <i>⚡️ There is no debate that CamelCase is superior ⚡️</i>
+   <i>⚡️ There is literally zero reason for anyone to still be using JavaScript ⚡️</i>
 </h5>
 
 <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="48%" />
