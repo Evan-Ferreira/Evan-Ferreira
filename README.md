@@ -26,8 +26,9 @@
 <p width=48%">
    <i>
 🤖 Currently learning Vim
-💻 Full-stack developer specializing in Next, Node, Express, Redis, and Postgres
-⌨️ TypeScript is my current language of choice
+      
+<p width=48%"> 💻 Full-stack developer specializing in Next, Node, Express, Redis, and Postgres
+<p width=48%"> ⌨️ TypeScript is my current language of choice
    </i>
 </p>
 
