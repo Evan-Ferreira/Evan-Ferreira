@@ -12,7 +12,7 @@
 
 <h3 align="center"> 
 <!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer | Entrepreneur <img src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c03449c4-3926-4aba-8bf6-bcdd2bbad94f" alt="Money" width="40" /> | Wrestler <img src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/ccab7769-9099-42e8-bd6e-f093ea42e6f1" alt="Field" width="40" /> -->
-
+📺 Software @ Taiv & Pillexa 💊
 </h3>
  <h5 align="center">
    <i>⚡️ There is no debate that CamelCase is superior ⚡️</i>
@@ -27,8 +27,9 @@
    <i>
 🤖 Currently learning Vim
       
-<p width=48%"> 💻 Full-stack developer specializing in Next, Node, Express, Redis, and Postgres
-<p width=48%"> ⌨️ TypeScript is my current language of choice
+<p width=48%"> 💻 I do full-stack, here's my favourite tech
+<p width=48%"> ⌨️ Frontend - Next + Tailwind
+<p width=48%"> ⌨️ Backend - Node + Express + Redis + Postgres
    </i>
 </p>
 
@@ -57,10 +58,10 @@
 🤼 I was ranked 3rd in Canada in Wrestling at the 72kg division
 </p>  
 <p align="left">
-🤖 I run an AI start-up called "Local Reach"
+🤖 I sold my AI startup, Local Reach, to Taiv (YC W20)
 </p>  
 <p align="left"> 
-🔭 I oversee an AI-incubator at Queen's University, Canada
+🔭 I ran an AI product-incubator at Queen's.
 </p>  
 <p align="left">
 👑 I was ranked top 100 in Canada at Clash Royale in high school
