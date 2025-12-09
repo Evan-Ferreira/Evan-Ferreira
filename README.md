@@ -20,7 +20,7 @@ Engineering @ Shopify
 
 <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c198173f-7f2c-48ad-a961-3caa918017a3" alt="Field" width="48%" />
 <p width=49%">
-   <h3 align="left">🇨🇦 I'm a 3rd Year Queen's CS + Commerce Student</h3>
+   <h3 align="left">🇨🇦 I'm a 3rd Year Queen's Commerce Student</h3>
 </p>
 
 <p width=48%">
