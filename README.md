@@ -14,7 +14,7 @@ Queen's Commerce
 
 <img align="right" src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/a7b818ef-e771-454e-bbc8-83dab6d40c24" alt="Max Holloway" width="40%" />
 <p width=49%">
-   <h3 align="left">🇨🇦 I'm a 4th Year Canadian Business Student</h3>
+   <h3 align="left">🇨🇦 I'm a 4th Year Commerce & CS Student</h3>
 </p>
       
 <p> 🌐 <a href="https://www.evanferreira.com/">https://www.evanferreira.com/ </a>
