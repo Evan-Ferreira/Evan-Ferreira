@@ -6,7 +6,7 @@
 
 <h3 align="center"> 
 <!--   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Laptop" width="40" /> Aspiring Software Engineer | Entrepreneur <img src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/c03449c4-3926-4aba-8bf6-bcdd2bbad94f" alt="Money" width="40" /> | Wrestler <img src="https://github.com/Evan-Ferreira/Evan-Ferreira/assets/132397646/ccab7769-9099-42e8-bd6e-f093ea42e6f1" alt="Field" width="40" /> -->
-Engineering @ Uber | Queen's Commerce & CS
+Queen's Commerce & CS
 </h3>
  <h5 align="center">
    <i>⚡️ There is literally zero reason for anyone to still be using JavaScript ⚡️</i>
